@@ -108,6 +108,13 @@ header p{
 	padding-bottom:10vh;
 }
 
+.section-paragraph{
+	color:#fff;
+	font-weight:200;
+	font-size:1.4em;
+	text-align:center;
+}
+
 .faces{
 	width:75%;
 	text-align:center;
